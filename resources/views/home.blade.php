@@ -20,6 +20,7 @@
 
 <body>
     <h1>{{ $data }}</h1>
+    <a href="{{ route('about') }}">ABOUT</a>
 </body>
 
 </html>
